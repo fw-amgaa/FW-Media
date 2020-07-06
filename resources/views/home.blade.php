@@ -44,8 +44,8 @@
                             id="slide-71-layer-4" 
                             data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
                             data-y="['top','top','top','top']" data-voffset="['270','270','240','180']" 
-                            data-fontsize="['90','56','40','30']"
-                            data-lineheight="['72','62','54','42']"
+                            data-fontsize="['62','50','44','42']"
+                            data-lineheight="['72','62','54','46']"
                             data-width="none"
                             data-height="none"
                             data-whitespace="nowrap"
@@ -61,16 +61,16 @@
                             data-paddingbottom="[0,0,0,0]"
                             data-paddingleft="[0,0,0,0]"
         
-                            style="z-index: 10; white-space: normal;font-weight: 400; color: #fff;font-family: 'Red Hat Text', sans-serif;">
-                            <h2 class="slider-title1">We are Full Service<br><span class="text-second">SEO Agency</span></h2>
+                            style="z-index: 10; white-space: normal;font-weight: 900; color: #fff;font-family: 'Red Hat Text', sans-serif;">
+                            We are Full Service<br><span class="text-second">SEO Agency</span>
                                 
                         </div>
                                     
                         <!-- LAYER 6  Read More-->
-                        <div class="tp-caption rev-btn  tp-resizeme" 
+                        <div class="tp-caption rev-btn  tp-resizeme slider-tag-line" 
                             id="slide-71-layer-6" 
                             data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"  
-                            data-y="['top','top','top','top']" data-voffset="['540','360','360','329']" 
+                            data-y="['top','top','top','top']" data-voffset="['540','480','400','329']" 
                             data-width="none"
                             data-height="none"
                             data-whitespace="nowrap"                     
